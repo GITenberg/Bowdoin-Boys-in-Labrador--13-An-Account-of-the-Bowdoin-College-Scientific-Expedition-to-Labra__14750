@@ -1,0 +1,28 @@
+_repo: Bowdoin-Boys-in-Labrador--13-An-Account-of-the-Bowdoin-College-Scientific-Expedition-to-Labra__14750
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cilley, Jonathan Prince
+    birthdate: 1835
+    deathdate: 1920
+    gutenberg_agent_id: '5664'
+    url: http://www.gutenberg.org/2009/agents/5664
+description: ''
+gutenberg_issued: '2005-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14750'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Labrador (N.L.) -- Description and travel'
+- !lcc 'Q'
+- !lcsh 'Scientific expeditions'
+title: "Bowdoin Boys in Labrador\r\nAn Account of the Bowdoin College Scientific Expedition\
+  \ to Labrador led by Prof. Leslie A. Lee of the Biological Department"
+url: http://www.gutenberg.org/ebooks/14750
